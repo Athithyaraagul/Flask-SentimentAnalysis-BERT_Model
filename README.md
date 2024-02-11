@@ -1,4 +1,4 @@
 Sentiment Analysis using BERT model along with Flask front-end
 
-Train Accuracy = 0.8425821476656599
-Test Accuracy = 0.803338992975
+Mean Train Accuracy = 0.8020632436956443
+Mean Test Accuracy = 0.7918788907753254
